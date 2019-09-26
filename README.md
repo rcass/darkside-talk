@@ -1,6 +1,6 @@
 # 🌚 Tempted By the Dark Side 🌚
 
-## Word Camp Vancouver 2019
+###_Word Camp Vancouver 2019_
 
 This repo contains the keynote and resources links for the tempted by the dark side talk presented at Word Camp Vancouver 2019.
 
