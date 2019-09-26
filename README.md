@@ -4,7 +4,7 @@ _Word Camp Vancouver 2019_
 
 This repo contains the keynote and resources links for the tempted by the dark side talk presented at Word Camp Vancouver 2019.
 
-Slides are in made in Apple Keynote (sorry windows users 😬)
+[Slides](https://github.com/rcass/darkside-talk/archive/master.zip) are in made in Apple Keynote (sorry windows users 😬)
 
 ### What
 
